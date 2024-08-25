@@ -44,6 +44,3 @@ To run the entire analysis pipeline, including data generation, analysis, and re
 For interactive exploratory analysis, open the Jupyter notebook:
 jupyter notebook notebooks/exploratory_analysis.ipynb
  
-## Additional Information
-
-This project is part of a data analysis exercise focusing on digital identity and fraud.
